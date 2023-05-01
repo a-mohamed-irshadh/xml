@@ -1,6 +1,6 @@
 {
-    "name": "acfbentveld/xml",
-    "description": "",
+    "name": "a-mohamed-irshadh/xml",
+    "description": "A clone of acfbentveld/xml to use in CTU",
     "keywords": [
         "XML",
         "reader",
@@ -11,12 +11,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Amando Vledder",
-            "email": "amando@acfbentveld.nl",
-            "homepage": "https://acfbentveld.nl/",
+            "name": "Mohamed Irshadh",
+            "email": "mohamed.irshadh@olivegroup.io",
             "role": "Developer"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": "^7.2|^8.0",
         "illuminate/support": "5.*|6.*|7.*|8.*",
